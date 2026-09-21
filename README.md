@@ -1,6 +1,7 @@
 ## Ownership
-- Owner: marvin Marlik telegram @solidity pope
+- Owner: Marvin Marlik (telegram @solidity pope)
 - Email: marlikkodes@gmail.com
 
-# Project Overview
+## Ownership
 
+# Project Overview
